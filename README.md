@@ -1,8 +1,7 @@
-Analysis for {authors blinded} (submitted)
+Analysis for Schmälzle, Wu, Lim & Bente (2025).  
 =============================================
 
-Data and analysis code for *Title* [link](link_goes_here)
-
+Data and analysis code for * Schmälzle, Wu, Lim, & Bente (2025). Inter-Subject Correlations of Pupillary Audience Responses: Decoding Visual Attention and Predicting Memory in a VR Media Setting. Journal of Media Psychology * [link](link_goes_here)
 
 
 ***
